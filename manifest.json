@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Minimal Manifest",
+    "name": "EasyWPP",
     "version": "1.0.0",
-    "description": "A basic example extension with only required keys",
+    "description": "Envie mensagens no WhatsApp Web sem precisar salvar o contato! Selecione, clique com o botão direito e inicie a conversa.",
     "permissions": ["contextMenus"],
     "icons": {
       "16": "images/icon-16.png",
